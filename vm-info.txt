@@ -1,0 +1,2 @@
+VM IP: 
+Connecting to VM: ssh -i id_rsa tumbursandi@
